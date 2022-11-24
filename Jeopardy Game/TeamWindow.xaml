@@ -1,0 +1,68 @@
+﻿<Window x:Class="Jeopardy_Game.TeamWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Jeopardy_Game"
+        mc:Ignorable="d"
+        Title="{StaticResource strAppName}" Height="350" Width="400" Closing="Window_Closing"
+        Background="{StaticResource MainColor}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Style="{StaticResource Headers}" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="Choose Teams" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Team 1:" FontSize="15"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="team1Name" Grid.Row="1" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="7"/>
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Team 2:" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="team2Name" Grid.Row="2" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="7"/>
+
+
+        <TextBlock Style="{StaticResource Headers}" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Text="Choose Topics" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="Topic 1:" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="topic1" Grid.Row="5" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="10"/>
+
+        <TextBlock Grid.Row="6" Grid.Column="0" Text="Topic 2:" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="topic2" Grid.Row="6" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="10"/>
+
+        <TextBlock Grid.Row="7" Grid.Column="0" Text="Topic 3:" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="topic3" Grid.Row="7" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="10"/>
+
+
+        <TextBlock Grid.Row="8" Grid.Column="0" Text="Topic 4:" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="topic4" Grid.Row="8" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="10"/>
+
+
+        <TextBlock Grid.Row="9" Grid.Column="0" Text="Topic 5:" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="topic5" Grid.Row="9" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="10"/>
+
+
+        <TextBlock Grid.Row="10" Grid.Column="0" Text="Topic 6:" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="topic6" Grid.Row="10" Grid.Column="1" Width="80" HorizontalAlignment="Left" VerticalAlignment="Center" MaxLength="10"/>
+
+        <Button x:Name="confirm_btn" Click="confirm_btn_Click" Content="Confirm" Grid.Column="1" Grid.Row="11" Width="100" Height="25" HorizontalAlignment="Left" Margin="15,0,0,0"/>
+        <Button x:Name="loadQ_btn" Click="loadQ_btn_Click" Content="Load Questions" Grid.Column="0" Grid.Row="11" Width="100" Height="25" HorizontalAlignment="Right" Margin="0,0,15,0"/>
+    </Grid>
+</Window>

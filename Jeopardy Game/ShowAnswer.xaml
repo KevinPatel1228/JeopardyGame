@@ -1,0 +1,33 @@
+﻿<Window x:Class="Jeopardy_Game.ShowAnswer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Jeopardy_Game"
+        mc:Ignorable="d"
+        Title="{StaticResource strAppName}" Height="400" Width="800"
+        Background="{StaticResource MainColor}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Style="{StaticResource Headers}" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="CorrectAnswer" FontSize="30" HorizontalAlignment="Center" Margin="5"></TextBlock>
+
+        <TextBlock x:Name="txtAnswer" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" TextWrapping="WrapWithOverflow"  Margin="20 0 20 0" Text="theAnswer" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+
+        <Button x:Name="doneBtn" Content="Got it" Click="doneBtn_Click" FontSize="25" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="4" Width="150" Height="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+    </Grid>
+</Window>

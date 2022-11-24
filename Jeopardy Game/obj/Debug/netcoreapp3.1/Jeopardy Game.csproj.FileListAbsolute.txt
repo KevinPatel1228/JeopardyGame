@@ -1,0 +1,59 @@
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.exe
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.deps.json
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.runtimeconfig.json
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.runtimeconfig.dev.json
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.dll
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.pdb
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.csprojAssemblyReference.cache
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AddQuestions.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AdminWindow.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowAnswer.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowQuestion.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\TeamWindow.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game_MarkupCompile.cache
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game_MarkupCompile.lref
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AddQuestions.baml
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AdminWindow.baml
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowAnswer.baml
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowQuestion.baml
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\TeamWindow.baml
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.g.resources
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.AssemblyInfo.cs
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.dll
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.pdb
+C:\Users\kevin\Downloads\Jeopardy_Game (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.genruntimeconfig.cache
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.exe
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.deps.json
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.runtimeconfig.json
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.runtimeconfig.dev.json
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.dll
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\bin\Debug\netcoreapp3.1\Jeopardy Game.pdb
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.csprojAssemblyReference.cache
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AddQuestions.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AdminWindow.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowAnswer.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowQuestion.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\TeamWindow.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game_MarkupCompile.cache
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game_MarkupCompile.lref
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AddQuestions.baml
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\AdminWindow.baml
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowAnswer.baml
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\ShowQuestion.baml
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\TeamWindow.baml
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.g.resources
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.AssemblyInfo.cs
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.dll
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.pdb
+C:\Users\kevin\Downloads\Jeopardy_Ishpal-Kevin (1)\Jeopardy Game\obj\Debug\netcoreapp3.1\Jeopardy Game.genruntimeconfig.cache
